@@ -7,3 +7,6 @@
 
 #define RGB_MATRIX_STARTUP_SPD 60
 
+// custom QMK settings
+#define AUTO_SHIFT_REPEAT
+
